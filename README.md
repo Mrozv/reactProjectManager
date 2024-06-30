@@ -1,11 +1,9 @@
 <h3 align="center">React Project Manager</h3>
 
-  <p align="center">
+  <p>
     This project represents an advanced version of a basic to-do list application. It allows users to manage multiple projects, each with its own dedicated to-do list. You can assign a title, description, and date to each project. Additionally, the app provides features for adding and deleting both projects and tasks, giving you complete control over your task management and priorities.
 
 As my first training project using React and Tailwind, I developed this app as part of a course, with my personal involvement accounting for approximately 70%-80% of the work.
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
 </div>
 

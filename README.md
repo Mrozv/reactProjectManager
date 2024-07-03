@@ -7,9 +7,10 @@ As my first training project using React and Tailwind, I developed this app as p
   </p>
 </div>
 
-<strong>Demo</strong>
-
-<a>https://reactprojectmanager.netlify.app</a>
+<div>
+	<strong>Live site</strong> 
+	<div>https://reactprojectmanager.netlify.app</div>
+</div>
 
 ### Built With
 

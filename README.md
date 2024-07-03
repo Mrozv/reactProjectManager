@@ -8,7 +8,7 @@ As my first training project using React and Tailwind, I developed this app as p
 </div>
 
 <strong>Demo</strong>
-![https://reactprojectmanager.netlify.app]
+<a>https://reactprojectmanager.netlify.app</a>
 
 ### Built With
 
